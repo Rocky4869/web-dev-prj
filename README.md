@@ -1,5 +1,6 @@
 # Netflix Landing Page Clone with HTML, CSS & JS
 This is a project of cloning Netflix website (old version)
+
 Please visit: https://rocky4869.github.io/web-dev-project-netflix/
 
 ![image](https://user-images.githubusercontent.com/101194662/184501958-f1453bd9-95d2-4bc5-9a48-8b63662b8aef.png)
